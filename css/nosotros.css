@@ -159,10 +159,15 @@
 #footer-page .ft-4{
 	width: 20%;
 	height: 100px;
-	border:1px solid white;
 	margin-top: 25px;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	flex-direction: column;
 }
-.ft-4 p{color: white; font-size: 18px; text-decoration: none;}
+.ft-4 p{color: white; font-size: 14px; text-decoration: none;}
+.ft-4 a {color: #869fb2; font-size: 18px; text-decoration: none;}
+.ft-4 a:hover{color: white; transform: scale(1.05);}
 #enlace{
 	width: 100%;
 	height:50px;
@@ -170,4 +175,10 @@
 	color:white;
 	font-size: 18px;
 	text-align: center;
+}
+.LinkISN{
+	color: black; font-size: 18px; text-decoration: none;
+}
+.LinkISN:hover{ color: black; transform: scale(1.25);}
+
 }
