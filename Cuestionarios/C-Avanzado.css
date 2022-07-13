@@ -6,6 +6,7 @@
 #main .fondo{
    position: absolute;
 }
+
 #header{
 	width: 98%;
 	height: 110px;
@@ -19,6 +20,7 @@
 	margin-top: 1%;
 	position: relative;
 }
+
 .logo{
 	width: 100px;
 	height: 100px;
