@@ -5,9 +5,8 @@
 }
 #main .fondo{
    position: absolute;
-   
-}
 
+}
 #header{
 	width: 98%;
 	height: 110px;
@@ -34,6 +33,7 @@
     margin-top: 35px;
 }
 .title p{ color: white; font-size: 34px; }
+
 .profile{
 	display: -webkit-flex;
 	display: -ms-flexbox;
@@ -43,6 +43,7 @@
     cursor: pointer;
 }
 .profile p{ color: white; font-size:20px;}
+
 .profile:hover{transform: scale(1.2); transition: 500ms;}
 #center{	
 	width: 100%;
