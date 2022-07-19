@@ -5,6 +5,7 @@
 }
 #main .fondo{
    position: absolute;
+   
 }
 
 #header{
@@ -20,14 +21,12 @@
 	margin-top: 1%;
 	position: relative;
 }
-
 .logo{
 	width: 100px;
 	height: 100px;
 	margin-top: 5px;
 	cursor: pointer;
 }
-
 .logo:hover{ transform: scale(1.3); transition: 500ms; }
 .title{
     width: 400px;
