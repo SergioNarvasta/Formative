@@ -20,7 +20,6 @@ namespace CapaDatos
        public DateTime fechaVencimiento { get; set; }
        public Decimal igv { get; set; }
        public Decimal precioCompra { get; set; }
-
        //campo calculado 
        public Decimal Subtotal { get; set; }
        public Decimal Total { get; set; }
