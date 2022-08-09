@@ -93,6 +93,7 @@
 	display: -webkit-flex;
 	display: -ms-flexbox;
 	display: flex;
+	
 }
 #welcome .caja{
     width: 80%;
