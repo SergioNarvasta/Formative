@@ -202,7 +202,6 @@
 	flex-direction: row;
 	justify-content: space-around;
 	font-family: 'segoe UI';
-
 }
 .def p{ text-align: center; }
 #footer-page{
@@ -216,6 +215,7 @@
 	justify-content: space-around;
 	font-family: 'segoe UI';
 }
+
 #footer-page .ft-1{
 	width: 20%;
 	height: 150px;
