@@ -11,6 +11,7 @@ namespace CapaNegocio
     {
        public Boolean registrarDetalleComprobante(DetalleComprobante oDetalleComprobante)
        {
+        
            DDetalleComprobante oDDetalleComprobante = new DDetalleComprobante();
            return oDDetalleComprobante.registrarDetalleComprobante(oDetalleComprobante);
        }

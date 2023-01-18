@@ -11,6 +11,7 @@ namespace CapaNegocio
     {
        public Boolean registrarDetalleIngresos(DetalleIngresos oDetalleIngresos)
        {
+        
            DDetalleIngresos oDDetalleIngresos = new DDetalleIngresos();
            return oDDetalleIngresos.registrarDetalleIngresos(oDetalleIngresos);
        }
